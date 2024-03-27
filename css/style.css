@@ -280,3 +280,25 @@
     transform: scale(0.940);
     background-color: #ff9500;
 }
+
+@media screen and (min-width:600px) {
+    .pt1 div{
+        width: 100%;
+    }   
+
+    .pt2 div{
+        width: 100%;
+    }   
+
+    .pt3 div{
+        width: 100%;
+    }   
+
+    .pt4 div{
+        width: 100%;
+    }   
+
+    .pt5 div{
+        width: 100%;
+    }   
+}
